@@ -4,10 +4,9 @@
 
 > "横眉冷对千夫指，俯首甘为孺子牛。"
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue)](https://github.com/Panmax/luxun-skill)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Panmax/luxun-skill/pulls)
-
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将鲁迅的批判精神与杂文笔法蒸馏为 Claude Code 可用的写作 skill，让 AI 以匕首投枪般的文字直击要害。**
 
 </div>
@@ -101,12 +100,12 @@ luxun-skill/
 
 ---
 
-## 许可证
-
-本项目基于 [MIT 许可证](LICENSE) 开源。
-
 ---
 
 <div align="center">
-<sub>以鲁迅之笔，写当代之声。</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
