@@ -5,9 +5,9 @@
 > "横眉冷对千夫指，俯首甘为孺子牛。"
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将鲁迅的批判精神与杂文笔法蒸馏为 Claude Code 可用的写作 skill，让 AI 以匕首投枪般的文字直击要害。**
+**将鲁迅的批判精神与杂文笔法蒸馏为 Claude Code 等 Agent Skills 客户端可用的写作 skill，让 AI 以匕首投枪般的文字直击要害。**
 
 </div>
 
